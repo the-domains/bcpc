@@ -1,6 +1,7 @@
 name: BCPC
 favicon: null
 layout_spectrum: 0.49549
+typography_spectrum: 0.58578
 cta:
   domain: null
   bucket: null
@@ -15,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040203'
-    - '#794351'
-    - '#9f6877'
-    - '#502030'
-    - '#e4b99d'
+    - '#649af4'
+    - '#010300'
+    - '#3a3424'
+    - '#707553'
+    - '#e2d7d9'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
